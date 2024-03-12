@@ -1,0 +1,27 @@
+#title{
+    color: red;
+}
+
+#titulo {
+    color: blue;
+}
+
+
+.texto {
+    color: tomato;
+}
+
+p.texto{
+    color: rgb(37, 34, 32);
+    right: 30px
+}
+
+div p {
+    color: red;
+}
+
+footer ul, li {
+    
+    color:blueviolet;
+
+}
